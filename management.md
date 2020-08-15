@@ -253,7 +253,7 @@ QUOTES TO LIVE AND WORK BY
 - Ultimately all you will have left at the end of the day are your name and your reputation. Invest in them wisely and you and others will simultaneously reap the rewards. Leonard A. Schlesinger 
 - Small opportunities are often the beginning of great enterprises. Demosthenes 
 - You can do it that way.  Pappy
-- Be the best you can in all that you do whether its digging ditches, robbing banks, or solving world hunger. Dad
+- Be the best you can in all that you do...regardless of what you do. Dad
 - Your reputation is made by searching for things that can't be done....and doing them. Vern McLellan
 
 
