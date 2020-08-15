@@ -1158,7 +1158,7 @@ STUDY TECHNIQUES FOR COMPREHENSIVE EXAMS AND THE DEFENDING THE DOCTORAL DISSERTA
 -------------------------------------------------------------------------------------
 Below are some techniques I personally used and created to help me recall, apply, demonstrate knowledge, familiarity, and application of research/concepts/technique.
 
--Take SAFMEDS daily 
+- Take SAFMEDS daily 
           - From Dr. Ogden Lindsley, University of Kansas. 
           - He named this system of cards, SAFMEDS ("Say All Fast, a Minute Each Day, Shuffled"). 
 
@@ -1169,14 +1169,14 @@ Below are some techniques I personally used and created to help me recall, apply
           - Rinse and repeat.
 
 - Now Appearing on Center Stage!
-          - I made up folks songs about the topics and authors to help me remember
+          - I created folk songs about the topics and authors to help me remember
           - Southern people are known for silly folk songs and singing while they work.  My grandmother's homespun songs inspired this one.
           - I would make up little ditties about the authors I was studying and stories about their research.
           - I play the guitar with no meaningful direction or skill.  I would strum songs about all these authors with dates and stories.  
           - For example:  "Champy & Hammer fought for radical redesign of corporate processes or bust!  Then Mintzberg shut them down in 1996 and Tom Peters had no trust."
 
 - Join the Technology Management All-Stars
-          - I created my all star team of technology management professionals.  
+          - I created my all-star team of technology management professionals.  
           - Depending on the question, I would substitute in my specialists to complete the question.
           - Researcher All-Stars: Minium, Noursis, Hayden, Beach, NSF 
           - General management All-Stars: Drucker, Chandler, Champy & Hammer, Demming, Bennis & Nanus, Argyris & Shon
