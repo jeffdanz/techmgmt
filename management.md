@@ -1,5 +1,6 @@
-Jeff's JDRanch Miscellany: Technology Management Edition
+Jeff D's Miscellany: Technology Management Edition 
 ======================================
+ref->  https://github.com/jeffdanz/techmgmt
 
 READING LIST
 -------------  
