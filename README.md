@@ -17,7 +17,7 @@ I hope you find these helpful and applicable to your journey
 None. Mileage may vary.  Use what's helpful, improve the product.
 
 ## Author
-Jeff Daniels | [@jeffdaniels](https://twitter.com/jeffdaniels) | [linkedin.com/in/jeffdaniels/](https://linkedin.com/in/jeffdaniels/) | [github.com/jdranch](https://github.com/jdranch)
+Jeff Daniels | [@jeffdaniels](https://twitter.com/jeffdaniels) | [linkedin.com/in/jeffdaniels/](https://linkedin.com/in/jeffdaniels/) | [github.com/jdeffdanz](https://github.com/jeffdanz)
 
 ## License
 [Creative Commons Attribution-NonCommercial-NoDerivatives](LICENSE.txt)
