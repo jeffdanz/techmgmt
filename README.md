@@ -1,4 +1,4 @@
-# JDRanch Miscellany
+# Jeff's Miscellany: Technology Management Edition
 
 ## Introduction
 Hello 👋 
