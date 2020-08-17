@@ -7,6 +7,7 @@ READING LIST
 General
 - How to win friends and influence people (Carnegie)
 - The Toyota Way (Liker)
+- The Art of Thinking Clearly by Rolf Dobelli
 - The Ultimate Business Library: 50 Books That Made Management (Ultimates) by Stuart Crainer
 - Our Iceberg is Melting (Kotter, Rathgeber)
 - Business: Its Legal, Ethical, and Global Environment by Marianne M. Jennings
