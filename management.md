@@ -121,7 +121,7 @@ UPTIME
 99.9999 - 0.1s     2.6s     32s     (six nines)
 ```
 
-DIKM
+DIKW
 ----
 ### Data
 Metrics - 10 req/sec
