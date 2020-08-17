@@ -103,6 +103,7 @@ Information Technology Reading
 - Pierre Levy,  Collective Intelligence: Mankind's Emerging World in Cyberspace.
 - Pippa Norris,  Digital Divide: Civic Engagement, Information Poverty, and the Internet Worldwide.
 - Lucy Suchman,  Plans and Situated Actions: The Problem of Human-Machine Communication.
+- Jeff Daniels, Assured Identity for the Cloud (Dissertation, 2011)
 
 
 UPTIME  
