@@ -1,4 +1,4 @@
-Jeff D's Miscellany: Technology Management Edition 
+Jeff D's Technology Management Playbook  
 ======================================
 ref->  https://github.com/jeffdanz/techmgmt
 
