@@ -205,6 +205,11 @@ Tolerance of minor infractions leads to normalisation, leading to more serious i
 ### Disagree and commmit
 Management principle which states that people are allowed to disagree during the  decision making process, but most commit to the final decision – whatever it is.
 
+### Quality of Communication (Professor Patrick Winston)
+Quality of Speaking = Knowledge * Practice * talent.  The knowledge (what you know) is most important, talent is minor factor)
+Q = (K * P * t)
+
+
 PROGRAMMER'S VIRTUES
 --------------------
 ### Laziness
@@ -1209,6 +1214,67 @@ Kelly Johnson, legendary visioniory aviation leader of the fabled Lockheed Marti
 12.  There must be absolute mutual trust between the military organization and the contractor with very close liaison on a day-to-day basis. This cuts down misunderstanding and correspondence to an absolute minimum.
 13.  Access by outsiders to the project and its personnel must be strictly controlled by appropriate security measures.
 14.  Because only a few people will be used in engineering and most other areas, ways must be provided to reward good performance by pay, not simply related to the number of personnel supervised.
+
+
+HOW TO SPEAK BY PROF WINSTON
+-----------------------------------------
+How to give a talk by Professor Winston. 
+- We humans only have one language processor, so focus 
+
+How to start a talk?
+-Don't start with a joke, start with a promise
+
+Some techniques
+- Cycle on the topic to reinforce it 
+- Build a fence around our ideas, so audiences don't confuse them with the ideas from others
+- Use verbal punctuation to help audiences re-focus 
+- Ask questions to audiences 
+
+Time & place
+- 11am is a good time for the 1st lecture of the day 
+- The place should have good lighting condition, should be cased and reasonably populated 10:55
+
+Tools: boards, props and slides
+- Chalks and boards are good for informing and teaching, slides are good for exposing
+- Chalks and boards are good for showing graphics. You can control the speed of talk to help audiences absorb contents, and use your hand to point a target on board 
+- Props are useful to help audiences think about abstract things
+- Boards and props are great because empathic mirroring, i.e. audiences can feel they are doing the writing and demonstration
+- Bad slides contain too many pages and too many words 
+- Audiences can be tired to switch between slides and speaker if they far away from each other 
+- How to create good slides: simplification. Audiences will pay less attention to the speaker if their slides contain too many words
+- Font size shouldn't be large enough for easy reading 
+- Lazer pointer reduces the speakers' chance to engage (e.g. eye contact) with audiences 29:35, using sign-post in the slides instead
+
+How to inspire your audiences? 
+- Show your passion for the topic
+- An example of making a promise and showing passion 
+- How to teach people how to think 
+
+Provide them with:
+- The stories that they need to know
+	- The questions that they need to ask about these stories
+	- The mechanism to analyse these stories
+	- The ways to put together stories
+	- The ways to evaluate reliable stories
+
+Oral exams
+- People usually fail them because they fail to situate the context and fail to practice 
+- Practice your talk with people who don't know you work 
+- Job talks 
+
+Getting famous
+- Why should you care about getting famous  because we want our work to be recognised and we need good communication skills to do that
+- How to get your presentation ideas to be remembered 50:07, we need to have: symbol, slogan, surprise, salient (ideas) and (tell a) story
+
+How to end a talk
+- Some examples on final slides, show what you have done (i.e. contributions) and give audiences the time to read them!
+
+Final words 
+- A joke, his colleagues always end a talk with a joke, so people think they have had fun all the time :)
+- The phrase "thank you" is a weak move, "thank you for listening" is even worse, it suggests that people listen to your talk because their politeness
+- Some great endings without saying "thank you" 
+- Salute the audiences
+
 </body>
 
 </html>
