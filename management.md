@@ -1264,7 +1264,7 @@ Oral exams
 
 Getting famous
 - Why should you care about getting famous  because we want our work to be recognised and we need good communication skills to do that
-- How to get your presentation ideas to be remembered 50:07, we need to have: symbol, slogan, surprise, salient (ideas) and (tell a) story
+- How to get your presentation ideas to be remembered we need to have: symbol, slogan, surprise, salient (ideas) and (tell a) story
 
 How to end a talk
 - Some examples on final slides, show what you have done (i.e. contributions) and give audiences the time to read them!
