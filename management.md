@@ -1220,20 +1220,20 @@ HOW TO SPEAK BY PROF WINSTON
 -----------------------------------------
 - We humans only have one language processor, so focus 
 
-How to start a talk?
+#How to start a talk?
 -Don't start with a joke, start with a promise
 
-Some techniques
+#Some techniques
 - Cycle on the topic to reinforce it 
 - Build a fence around our ideas, so audiences don't confuse them with the ideas from others
 - Use verbal punctuation to help audiences re-focus 
 - Ask questions to audiences 
 
-Time & place
+#Time & place
 - 11am is a good time for the 1st lecture of the day 
-- The place should have good lighting condition, should be cased and reasonably populated 10:55
+- The place should have good lighting condition, should be cased and reasonably populated
 
-Tools: boards, props and slides
+#Tools: boards, props and slides
 - Chalks and boards are good for informing and teaching, slides are good for exposing
 - Chalks and boards are good for showing graphics. You can control the speed of talk to help audiences absorb contents, and use your hand to point a target on board 
 - Props are useful to help audiences think about abstract things
@@ -1244,7 +1244,7 @@ Tools: boards, props and slides
 - Font size shouldn't be large enough for easy reading 
 - Lazer pointer reduces the speakers' chance to engage (e.g. eye contact) with audiences, using sign-post in the slides instead
 
-Informing and Inspiring
+#Informing and Inspiring
 - Show your passion for the topic
 - An example of making a promise and showing passion 
 - How to teach people how to think, provide them with:
@@ -1254,19 +1254,19 @@ Informing and Inspiring
 	- The ways to put together stories
 	- The ways to evaluate reliable stories
 
-Oral exams
+#Oral exams
 - People usually fail them because they fail to situate the context and fail to practice 
 - Practice your talk with people who don't know you work 
 - Job talks 
 
-Getting famous
+#Getting famous
 - Why should you care about getting famous  because we want our work to be recognised and we need good communication skills to do that
 - How to get your presentation ideas to be remembered, we need to have: symbol, slogan, surprise, salient (ideas) and (tell a) story
 
-How to end a talk
+#How to end a talk
 - Some examples on final slides, show what you have done (i.e. contributions) and give audiences the time to read them!
 
-Final words 
+#Final words 
 - A joke, his colleagues always end a talk with a joke, so people think they have had fun all the time :)
 - The phrase "thank you" is a weak move, "thank you for listening" is even worse, it suggests that people listen to your talk because their politeness
 - Some great endings without saying "thank you" 
