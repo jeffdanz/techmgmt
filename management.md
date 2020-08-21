@@ -1218,13 +1218,13 @@ Kelly Johnson, legendary visioniory aviation leader of the fabled Lockheed Marti
 
 HOW TO SPEAK BY PROF WINSTON
 -----------------------------------------
-- We humans only have one language processor, so focus 
+
 
 #How to start a talk?
 -Don't start with a joke, start with a promise
 
 #Some techniques
-- Cycle on the topic to reinforce it 
+- Cycle on the topic to reinforce it  (3x)
 - Build a fence around our ideas, so audiences don't confuse them with the ideas from others
 - Use verbal punctuation to help audiences re-focus 
 - Ask questions to audiences 
@@ -1236,31 +1236,30 @@ HOW TO SPEAK BY PROF WINSTON
 #Tools: boards, props and slides
 - Chalks and boards are good for informing and teaching, slides are good for exposing
 - Chalks and boards are good for showing graphics. You can control the speed of talk to help audiences absorb contents, and use your hand to point a target on board 
-- Props are useful to help audiences think about abstract things
-- Boards and props are great because empathic mirroring, i.e. audiences can feel they are doing the writing and demonstration
+- Empathetic Mirroring is the technique using props to help audiences think about abstract things using i.e. audiences can feel they are doing the writing and demonstration (blackboard, chalk)
 - Bad slides contain too many pages and too many words 
 - Audiences can be tired to switch between slides and speaker if they far away from each other 
 - How to create good slides: simplification. Audiences will pay less attention to the speaker if their slides contain too many words
 - Font size shouldn't be large enough for easy reading 
 - Lazer pointer reduces the speakers' chance to engage (e.g. eye contact) with audiences, using sign-post in the slides instead
+- We humans only have one language processor (visual, reading, listening).  Focus is key. 
 
 #Informing and Inspiring
 - Show your passion for the topic
 - An example of making a promise and showing passion 
 - How to teach people how to think, provide them with:
-- The stories that they need to know
+	- The stories that they need to know
 	- The questions that they need to ask about these stories
 	- The mechanism to analyse these stories
 	- The ways to put together stories
 	- The ways to evaluate reliable stories
 
-#Oral exams
+#Oral exams, Job Talks
 - People usually fail them because they fail to situate the context and fail to practice 
 - Practice your talk with people who don't know you work 
-- Job talks 
 
 #Getting famous
-- Why should you care about getting famous  because we want our work to be recognised and we need good communication skills to do that
+- Why should you care about getting famous because we want our work to be recognised and we need good communication skills to do that
 - How to get your presentation ideas to be remembered, we need to have: symbol, slogan, surprise, salient (ideas) and (tell a) story
 
 #How to end a talk
