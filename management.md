@@ -1218,7 +1218,6 @@ Kelly Johnson, legendary visioniory aviation leader of the fabled Lockheed Marti
 
 HOW TO SPEAK BY PROF WINSTON
 -----------------------------------------
-How to give a talk by Professor Winston. 
 - We humans only have one language processor, so focus 
 
 How to start a talk?
@@ -1243,14 +1242,12 @@ Tools: boards, props and slides
 - Audiences can be tired to switch between slides and speaker if they far away from each other 
 - How to create good slides: simplification. Audiences will pay less attention to the speaker if their slides contain too many words
 - Font size shouldn't be large enough for easy reading 
-- Lazer pointer reduces the speakers' chance to engage (e.g. eye contact) with audiences 29:35, using sign-post in the slides instead
+- Lazer pointer reduces the speakers' chance to engage (e.g. eye contact) with audiences, using sign-post in the slides instead
 
-How to inspire your audiences? 
+Informing and Inspiring
 - Show your passion for the topic
 - An example of making a promise and showing passion 
-- How to teach people how to think 
-
-Provide them with:
+- How to teach people how to think, provide them with:
 - The stories that they need to know
 	- The questions that they need to ask about these stories
 	- The mechanism to analyse these stories
@@ -1264,7 +1261,7 @@ Oral exams
 
 Getting famous
 - Why should you care about getting famous  because we want our work to be recognised and we need good communication skills to do that
-- How to get your presentation ideas to be remembered we need to have: symbol, slogan, surprise, salient (ideas) and (tell a) story
+- How to get your presentation ideas to be remembered, we need to have: symbol, slogan, surprise, salient (ideas) and (tell a) story
 
 How to end a talk
 - Some examples on final slides, show what you have done (i.e. contributions) and give audiences the time to read them!
@@ -1274,6 +1271,7 @@ Final words
 - The phrase "thank you" is a weak move, "thank you for listening" is even worse, it suggests that people listen to your talk because their politeness
 - Some great endings without saying "thank you" 
 - Salute the audiences
+
 
 </body>
 
