@@ -1,4 +1,4 @@
-# Jeff's Miscellany: Technology Management Edition
+# Jeff's Technology Management Playbook
 
 ## Introduction
 Hello 👋 
@@ -23,7 +23,7 @@ Jeff Daniels | [@jeffdaniels](https://twitter.com/jeffdaniels) | [linkedin.com/i
 [Creative Commons Attribution-NonCommercial-NoDerivatives](LICENSE.txt)
 
 ## Credits
-Title inspired by the excellent [Schott's Miscellany](https://en.wikipedia.org/wiki/Schott%27s_Miscellany).
+Inspired by the excellent [Schott's Miscellany](https://en.wikipedia.org/wiki/Schott%27s_Miscellany).
 
 ## Contributions & corrections
 PRs welcome!
