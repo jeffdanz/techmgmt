@@ -209,6 +209,9 @@ Management principle which states that people are allowed to disagree during the
 Quality of Speaking = Knowledge * Practice * talent.  The knowledge (what you know) is most important, talent is minor factor)
 Q = (K * P * t)
 
+### How to Run a Meeting
+Two-pizza teams. No PowerPoint (write a memo). Start with silence (read the memo). (Bezos)
+
 
 PROGRAMMER'S VIRTUES
 --------------------
