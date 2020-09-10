@@ -152,7 +152,7 @@ LAWS, PRINCIPLES, PHENOMENA AND NUMBERS
 Experiencing something shortly after learning it
 
 ### Benford's Law
-http://www.rexswain.com/benford.html
+Benford's law predicts a decreasing frequency of first digits, from 1 through 9.  http://www.rexswain.com/benford.html
 
 ### Brooks' Law
 Adding manpower to a late project makes it later
