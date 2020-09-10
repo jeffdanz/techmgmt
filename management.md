@@ -1221,7 +1221,7 @@ Kelly Johnson, legendary visioniory aviation leader of the fabled Lockheed Marti
 
 HOW TO SPEAK BY PROF WINSTON
 -----------------------------------------
-
+Video -> https://www.youtube.com/watch?v=Unzc731iCUY
 
 #How to start a talk?
 -Don't start with a joke, start with a promise
