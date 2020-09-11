@@ -1135,14 +1135,14 @@ Bartlett & Ghoshal
 - Managing Across Borders (1989)
 - Identify difficulties in growth through acquisition and dangerously high levels of diversity
 - 4 Types of multi-national firms
-          - Multi-National - Multi-domestic, power in local responsiveness
-          - Global – efficiencies of scale, cost advantages
-          - International – ability to transfer knowledge and expertise overseas
-          - Transnational – combines local responsiveness w/ ability to xfer knowledge
+          - Multi-National: Multi-domestic, power in local responsiveness
+          - Global: efficiencies of scale, cost advantages
+          - International: ability to transfer knowledge and expertise overseas
+          - Transnational: combines local responsiveness w/ ability to xfer knowledge
 - Define Emerging Organizational Model
-          - Entrepreneurial Process – drive external opportunity seeking for new business
-          - Integration Process – Allows link to leverage dispersed resources and competencies
-          - Renewal Process – maintains corporate values and practices
+          - Entrepreneurial Process: drive external opportunity seeking for new business
+          - Integration Process: Allows link to leverage dispersed resources and competencies
+          - Renewal Proces: maintains corporate values and practices
 
 Bennis & Nanus
 - Leaders: The Strategies for Taking Charge (1985)
