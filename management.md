@@ -18,6 +18,9 @@ General
 - Diffusion of Innovations, by Everett M. Rogers
 - The Computer as a Communication Device, J.C.R Licklider and Robert Taylor
 - Libraries of the Future, J.C.R. Licklider
+- The Leadership Challenge, by Kouzes and Posner
+- First Rate Madnessm, by Nassir Ghaemi
+
 
 
 Software and Project Management
@@ -29,6 +32,9 @@ Software and Project Management
 - Organizational Systems: Managing Complexity with the Viable System Model Written by: Alfonso Reyes and Raul Espejo
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win Written by: Gene Kim, Kevin Behr, and George Stafford
 - The Dysfunctional Workplace: Theory, Stories, and Practice Written by: Seth Allman & Howard F. Stein
+- Interactive Project Management: Pixels, People, and Process (Voices That Matter), by Lyons and Wilker
+- Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers, by Gray, Brown, Macanufo
+
 
 
 Systems Thinking
@@ -212,6 +218,45 @@ Q = (K * P * t)
 ### How to Run a Meeting
 Two-pizza teams. No PowerPoint (write a memo). Start with silence (read the memo). (Bezos)
 
+### Thermodynamics
+- You can't win.
+- You can't break even.
+- You can't quit the game.
+
+### Amdahl’s Law 
+- Is a formula which gives the theoretical speedup in latency of the execution of a task at fixed workload that can be expected of a system whose resources are improved.
+
+### Gustafson's law 
+- Gives the theoretical speedup in latency of the execution of a task at fixed execution time that can be expected of a system whose resources are improved. It is named after computer scientist John L. Gustafson and his colleague Edwin H. Barsis and was presented in the article Reevaluating Amdahl's Law in 1988.
+
+### Acton's dictum: 
+- "Power tends to corrupt, and absolute power corrupts absolutely. Great men are almost always bad men.
+
+### Amara's law 
+- "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run."
+
+### Cheops law
+- "Nothing ever gets built on schedule or within budget."
+
+### Cunningham's law 
+- The best way to get the right answer on the Internet is not to ask a question, it’s to post the wrong answer.
+
+### Hutber's law
+- "Improvement means deterioration."
+
+### Landauer's principle
+- There is a minimum possible amount of energy required to change one bit of information.
+
+### Metcalfe's law
+- In communications and network theory: the value of a system grows as approximately the square of the number of users of the system.
+
+### Vierordt's law 
+- "Short" intervals of time tend to be overestimated, and "long" intervals of time tend to be underestimated.
+
+### Wirth's law
+- Software gets slower more quickly than hardware gets faster.
+
+
 
 PROGRAMMER'S VIRTUES
 --------------------
@@ -265,6 +310,21 @@ QUOTES TO LIVE AND WORK BY
 - You can do it that way.  Pappy
 - Be the best you can in all that you do...regardless of what you do. Dad
 - Your reputation is made by searching for things that can't be done....and doing them. Vern McLellan
+- Do not go where the path may lead, go instead where there is no path and leave a trail. —Ralph Waldo Emerson
+- Luck is the residue of design. —John Milton
+- In the middle of every difficulty lies opportunity. —Albert Einstein
+- You were born with the ability to change someone’s life—don’t ever waste it. —Dale Partridge
+- If you tell the truth, you don’t have to remember anything. —Mark Twain
+- The only wealth which you will keep forever is the wealth you have given away. —Marcus Aurelius
+- The great thing in this world is not so much where you stand, as in what direction you are moving. —Oliver Wendell Holmes
+- In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a positive impact. —Les Brown
+- Life is a shipwreck, but we must not forget to sing in the lifeboats. —Voltaire
+- Just remember: The people that say, ‘your dreams are impossible’ have already quit on theirs. —Grant Cardone
+- If you want to lift yourself up, lift up someone else. —Booker T. Washington
+- Do or do not, there is no try – Yoda
+- Never give up, never surrender – Peter Quincy Taggart
+- I come to work for Entertainment Value! – We must have fun at work, or we are going to go nuts.  – Marty Weiss
+
 
 
 
@@ -308,6 +368,16 @@ MAXIMS
 - There’s no free tuition in the school of experience.
 - Measure twice, cut once.
 - There is always somebody out there bigger, faster, smarter, and tougher than you.
+- Absorb what is useful; Disregard that which is useless
+- Your brain is constantly being rewired
+- Your life is the sum of the narratives you tell yourself
+- This too shall pass
+- Life is about making choices
+- There is a “law” of compounding: Follow it
+- A consistent process produces success
+- Do today what others won’t do so that tomorrow you can do what others cannot.
+- Rise to the work of man
+
 
 
 
