@@ -4,7 +4,7 @@ ref->  https://github.com/jeffdanz/techmgmt
 
 READING LIST
 -------------  
-General
+### General
 - How to win friends and influence people (Carnegie)
 - The Toyota Way (Liker)
 - The Art of Thinking Clearly by Rolf Dobelli
@@ -23,7 +23,7 @@ General
 
 
 
-Software and Project Management
+### Software and Project Management
 - Joel on Software Written by: Joel Spolsky
 - An Integrative Model of Organizational Trust: Past, Present, and Future by Roger C. Mayer, James H. Davis, and F. David Schoorman
 - Tribes: We Need You To Lead Us Written by: Seth Godin
@@ -37,7 +37,7 @@ Software and Project Management
 
 
 
-Systems Thinking
+### Systems Thinking
 - Conceptual Blockbusting: A Guide to Better Ideas Written by: James L Adams
 - Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life Written by: Albert-lazlo Barabasi & Jennifer Frangos
 - Outline of a New Approach to the Analysis of Complex Systems and Decision Processes Written by: Lotfia Zadeh
@@ -46,7 +46,7 @@ Systems Thinking
 - How to Solve It Written by: George Polya
 
 
-Soft Computing
+### Soft Computing
 - Genetic Algorithms in Search, Optimization, and Machine Learning Written by: David E. Goldberg
 - Neuro-Fuzzy and Soft Computing: A Computational Approach to Learning and Machine Intelligence Written by: Jyh-Shing Roger Jang, Chuen-Tsai Sun, and Eiji Mizutani 	
 - Soft - Computing: Integrating Evolutionary, Neural, and Fuzzy Systems Written by: Andrea Tettamanzi, Marco Tomassini
@@ -54,13 +54,13 @@ Soft Computing
 - Swarm Intelligence and Bio-Inspired Computation: An Overview Written by: Xin-She Yang Mehmet Karamanoglu
 
 
-Mathematical Foundations
+### Mathematical Foundations
 - Calculus Made Easy Written by: Silvanus Thompson
 - Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering Written by: Steven Strogatz
 - Advanced Statistics in Research Written by: Larry Hatcher
 - Introduction to Stochastic Processes Written by: Erhan Cinlar
 
-Historical perspectives on technology
+### Historical perspectives on technology
 - Michael Adas, Machines as the Measure of Men
 - Ronell, Avital, Ronell,  The Telephone Book: Technology, Schitzophrenia, Electric Speech.
 - William Cronin, Nature’s Metropolis: Chicago and the Great West.
@@ -72,7 +72,7 @@ Historical perspectives on technology
 - David Nye, American Technological Sublime
 - Staudenmaier, John. 1985. Technology’s Storytellers: Reweaving the Human Fabric.
 
-Technology and critical theory
+### Technology and critical theory
 - Richard Bernstein, "Heidegger's Silence? Ethos and Technology," in The New Constellation
 - Andrew Feenberg, Questionning Technology (entire)
 - Lewis Mumford, The Myth of the Machine:  The Pentagon of Power
@@ -83,7 +83,7 @@ Technology and critical theory
 - Langdon Winner, The Whale and the Reactor
 - Darin Barney, Prometheus Wired
 
-Global perspectives
+### Global perspectives
 - Arturo Escobar, Encountering Development (selections)
 - Francesca Bray, Technology and Gender: Fabrics of Power in Late Imperial China.
 - Manuel Castells,  The Rise of the Network Society
@@ -94,7 +94,7 @@ Global perspectives
 - Peña, Devon Gerardo1997. The Terror of the Machine: Technology, Work, Gender and Ecology of the U.S.-Mexico Border.
 - Paul Willis, Learning to Labor: How Working Class Kids Get Working Class Jobs
 
-Information Technology Reading
+### Information Technology Reading
 - Linnda  Caporael,  “Anthropomorphism and mechanomorphism: Two faces of the human machine.” Computers in Human Behavior 2:215-234
 - Langdon Winner, “Mythinformation,” in The Whale and the Reactor
 - Manuel Castells,  The Rise of the Network Society.
