@@ -1106,7 +1106,7 @@ At large scale culture is born out of structure. If you want to change culture, 
 
 STRATEGIC THINKERS AND RESEARCHERS
 -----------------------------------------
-Ansoff, Igor
+### Ansoff, Igor
 - Wrote Corporate Strategy to “codify and generalize” his work at Lockheed Corporation.
 - Created “Ansoff Model of Strategic Planning” which identifies a decision making process from aggregated to more specific.  The procedure is a cascade where
           - Set objectives established
@@ -1117,7 +1117,7 @@ Ansoff, Igor
 - Precursor to “corporate advantage”
 - Corporate Strategy relies heavily on analysis, thus Ansoff labels “analysis by paralysis”
 
-Argyris & Schon
+### Argyris & Schon
 - Organizational Learning (1978)
 - Precursor to Senge’s Fifth Discipline
 - Investigate 2-organizational models:
@@ -1131,7 +1131,7 @@ Argyris & Schon
                     - When an error is detected, orgs debate solution, act on change, learn from others
                     - Most orgs do well in Single Loop Learning, but struggle with Double
 
-Bartlett & Ghoshal
+### Bartlett & Ghoshal
 - Managing Across Borders (1989)
 - Identify difficulties in growth through acquisition and dangerously high levels of diversity
 - 4 Types of multi-national firms
@@ -1144,7 +1144,7 @@ Bartlett & Ghoshal
           - Integration Process: Allows link to leverage dispersed resources and competencies
           - Renewal Proces: maintains corporate values and practices
 
-Bennis & Nanus
+### Bennis & Nanus
 - Leaders: The Strategies for Taking Charge (1985)
 - Bennis interviews 90 American leaders
 - Lessons
@@ -1159,7 +1159,7 @@ Bennis & Nanus
           - Leadership is not solely the reserve of upper management
           - Leadership is not about control, direction, and manipulation
 
-Champy & Hammer
+### Champy & Hammer
 - Re-engineering the Corporation (1993)
 - Theme: Identify key processes and make them lean and efficient as possible
 - Re-engineering is “fundamental rethinking and radical redesign of business processes to achieve dramatic improvements in critical measures of performance such as cost,           quality, service, and speed.”
@@ -1171,7 +1171,7 @@ Champy & Hammer
           - Organizations are not willing to change by nature, mgmt often forces change, but does not adopt change itself.
           - Efforts fall short b/c absence of trust “respect for the individual, his or her goodwill, intelligence, and native, but long shackled, curiosity.” (Peters, 1993)
 
-Chandler
+### Chandler
 - Strategy and Structure (1962)
 - Researched US companies between 1850 – 1920
 - A firms structure is dictated by its chosen strategy; “Unless a structure follows strategy, inefficiency results”
@@ -1180,7 +1180,7 @@ Chandler
           - “I think he got it exactly wrong.  For it is the structure of the organization that determines, over time, the choices that it makes about the markets it attacks.”               (Peters, 1992)
           - In Managing on the Edge (Pascale, 1990)
 
-Deming
+### Deming
 - Out of the Crisis (1982)
 - Three concepts in Out of the Crisis:
           - If consistent quality is to be achieved, senior managers must take charge of quality
@@ -1191,7 +1191,7 @@ Deming
 - Western mgrs have annual appraisals, Japanese have daily feedback
 - 14-Points on quality management
 
-Drucker
+### Drucker
 - Predicted the rise of the Corporation
 - Age of Discontinuity (1969), describes “Knowledge Worker”
 - Calls for strategic planning to manage change
