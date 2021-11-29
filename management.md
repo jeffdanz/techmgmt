@@ -426,6 +426,7 @@ SOURCE LINES OF CODE (SLOC) - AVIONICS
 - Ford Motor Company F-150 (2020) - 150,000,000
 
 ### MISCELLANEOUS
+- Jeff's Technology Management Playbook - 1,126
 - U.S. military drone - 3,500,000
 - Boeing 787  - 6,500,000 (avionics & online support systems)
 - Google Chrome Browser - 6,700,000 
