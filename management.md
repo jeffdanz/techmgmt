@@ -411,32 +411,31 @@ ORDERS OF MAGNITUDE
 
 SOURCE LINES OF CODE (SLOC) - AVIONICS
 ----------------
-### F-16A Block 1 (1974) - 135,000
-### F-16D Block 60 (1984) - 236,000
-### P-3C (1996) - 1,000,000
-### F-22 Raptor (1997) - 1,700,000 
-### F-35 Lightning II (2006) - 6,800,000
-### F-35 Lightning II Block 2B (2016 USAF IOC) - 8,900,000
-### F-35 Lightning II Block 3F (2017) - est. 9,200,000 (20,300,000 w/ support software)
+### AVIONICS
+- F-16A Block 1 (1974) - 135,000
+- F-16D Block 60 (1984) - 236,000
+- P-3C (1996) - 1,000,000
+- F-22 Raptor (1997) - 1,700,000 
+- F-35 Lightning II (2006) - 6,800,000
+- F-35 Lightning II Block 2B (2016 USAF IOC) - 8,900,000
+- F-35 Lightning II Block 3F (2017) - est. 9,200,000 (20,300,000 w/ support software)
 
+### AUTOMOBILES
+- General Motors automobile (1990) - 1,000,000
+- General Motors automobile (2010) - 100,000,000
+- Ford Motor Company F-150 (2020) - 150,000,000
 
-SOURCE LINES OF CODE (SLOC) - AUTOMOBILES
-----------------
-### General Motors automobile (1990) - 1,000,000
-### General Motors automobile (2010) - 100,000,000
-### Ford Motor Company F-150 (2020) - 150,000,000
+### MISCELLANEOUS
+- U.S. military drone - 3,500,000
+- Boeing 787  - 6,500,000 (avionics & online support systems)
+- Google Chrome Browser - 6,700,000 
+- Chevy Volt - 10,000,000 
+- Android operating system - 12,000,000 - 15,000,000 
+- Windows XP operating system - 40,000,000 - 50,000,000
+- Apple's Mac OS X 10.4 - 85,000,000
+- Large Hadron Collider - 50,000,000
+- All Google services combined - 2,000,000,000 
 
-SOURCE LINES OF CODE (SLOC) - MISCELLANEOUS
-----------------
-### U.S. military drone - 3,500,000
-### Boeing 787  - 6,500,000 (avionics & online support systems)
-### Google Chrome Browser - 6,700,000 
-### Chevy Volt - 10,000,000 
-### Android operating system - 12,000,000 - 15,000,000 
-### Windows XP operating system - 40,000,000 - 50,000,000
-### Apple's Mac OS X 10.4 - 85,000,000
-### Large Hadron Collider - 50,000,000
-### All Google services combined - 2,000,000,000 
 
 DATACENTRE TIERS
 ----------------
